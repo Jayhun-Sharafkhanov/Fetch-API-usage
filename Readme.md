@@ -1,0 +1,2 @@
+---Fetch API nedir ? Nece istifade edilir?
+---Onun haqqinda sade bir numune yerlesdirdim.
